@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  About Me :computer:
 </h1>
 👋 Hi, I’m @Fernandes <br>
 👀 I’m interested in coding <br>
