@@ -5,19 +5,24 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
+👋 Hi, I’m @Fernandes
+👀 I’m interested in coding
+🌱 I’m currently learning about golang, node, php
+💞️ I experienced develop ERP system and B2B
+📫 How to reach me; nandessimanjuntak1803@gmail.com
 
-<!-- <p align="center">
-<a href="https://putra-portfolio.netlify.app/" target="_blank">
+<!-- <p align="center"> -->
+<!-- <a href="https://putra-portfolio.netlify.app/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
+</a> -->
 
-<a href="https://www.instagram.com/twenty2.march_/" target="_blank">
+<!-- <a href="https://www.instagram.com/twenty2.march_/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://fb.com/putraaa22/" target="blank">
-<img height="50"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="putraaa22/"   />
-</a>
-</p> -->
+</a> -->
+<!-- <a href="https://fb.com/putraaa22/" target="blank">
+  <img height="50"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="putraaa22/"   />
+</a> -->
+<!-- </p> -->
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
