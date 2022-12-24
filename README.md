@@ -5,11 +5,11 @@
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
-👋 Hi, I’m @Fernandes
-👀 I’m interested in coding
-🌱 I’m currently learning about golang, node, php
-💞️ I experienced develop ERP system and B2B
-📫 How to reach me; nandessimanjuntak1803@gmail.com
+👋 Hi, I’m @Fernandes <br>
+👀 I’m interested in coding <br>
+🌱 I’m currently learning about golang, node, php <br>
+💞️ I experienced develop ERP system and B2B <br>
+📫 How to reach me; nandessimanjuntak1803@gmail.com <br>
 
 <!-- <p align="center"> -->
 <!-- <a href="https://putra-portfolio.netlify.app/" target="_blank">
