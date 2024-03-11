@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">
-  About Me :computer:
-</h1>
+<h1 align="center"> About Me :computer: </h1>
 👋 Hi, I’m @Fernandes <br>
 👀 I’m interested in coding <br>
 🌱 I’m currently learning about golang, node, php <br>
@@ -12,9 +10,9 @@
 📫 How to reach me; nandessimanjuntak1803@gmail.com <br>
 
 <h2> 🚀 &nbsp;Socials : </h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandessimanjuntak)
 
 <h2> 🛠 &nbsp;Some Languange & Tools I Have Used and Learned : </h2>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
