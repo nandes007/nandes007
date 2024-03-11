@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=👋hey there!&height=100&section=header"/>
 </p>
 
-<h1 align="center"> About Me :computer: </h1>
+<h1> 👀 About Me </h1>
 👋 Hi, I’m @Fernandes <br>
-👀 I’m interested in coding <br>
+:computer: I’m interested in coding <br>
 🌱 I’m currently learning about golang, node, php <br>
-💞️ I experienced develop ERP system and B2B <br>
+💞️ I experienced develop ERP and B2B System <br>
 📫 How to reach me; nandessimanjuntak1803@gmail.com <br>
 
 <h2> 🚀 &nbsp;Socials : </h2>
@@ -51,15 +51,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-<div align="center" >
-<a  href="https://github.com/nandes007">
-  <img height="170"   align="center" src="https://github-readme-stats.vercel.app/api?username=nandes007&github-readme-stats&show_icons=true&theme=tokyonight" />
-</a>
- 
-<a href="https://github.com/nandes007">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandes007&layout=compact&theme=tokyonight" />
-</a>
 </div>
 
