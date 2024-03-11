@@ -10,7 +10,7 @@
 📫 How to reach me; nandessimanjuntak1803@gmail.com <br>
 
 <h2> 🚀 &nbsp;Socials : </h2>
-<a href="[https://www.linkedin.com/in/your-profile-username](https://www.linkedin.com/in/fernandessimanjuntak/)">
+<a href="https://www.linkedin.com/in/fernandessimanjuntak">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
