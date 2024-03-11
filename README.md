@@ -11,20 +11,7 @@
 💞️ I experienced develop ERP system and B2B <br>
 📫 How to reach me; nandessimanjuntak1803@gmail.com <br>
 
-<!-- <p align="center"> -->
-<!-- <a href="https://putra-portfolio.netlify.app/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a> -->
-
-<!-- <a href="https://www.instagram.com/twenty2.march_/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a> -->
-<!-- <a href="https://fb.com/putraaa22/" target="blank">
-  <img height="50"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="putraaa22/"   />
-</a> -->
-<!-- </p> -->
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Languange & Tools I Have Used and Learned</h2>
 
 <p align="center">
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
