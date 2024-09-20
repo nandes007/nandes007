@@ -14,9 +14,6 @@
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=JavaScript&logo=javascript)
 ![Nodejs](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Node.JS&logo=node.js)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PHP&logo=php)
-![Python](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Python&logo=python)
-![Ruby](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Ruby&logo=ruby)
-![Kotlin](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Kotlin&logo=kotlin)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Dart&logo=dart)
 ![HTML5](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=HTML5&logo=html5)
 ![CSS3](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=CSS3&logo=css3)
@@ -27,8 +24,6 @@
 ![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Tailwind+CSS&logo=tailwindcss)
 ![Nuxt JS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Nuxt+JS&logo=nuxt.js)
 ![Laravel](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Laravel&logo=laravel)
-![Jetpack Compose](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Jetpack+Compose&logo=android)
-![Ruby on Rails](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Ruby+on+Rails&logo=ruby-on-rails)
 ![Fluter](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Flutter&logo=flutter)
 
 ## 📚 Database
