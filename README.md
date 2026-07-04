@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Fernandes%20Simanjuntak&fontSize=38&fontColor=fff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=55" />
+# Fernandes Simanjuntak
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8A9CFF&center=true&vCenter=true&width=650&lines=Building+scalable+payment+%26+event-driven+systems;Laravel+%C2%B7+Golang+%C2%B7+Kafka+%C2%B7+Flink+%C2%B7+PostgreSQL;Turning+legacy+systems+into+real-time+platforms)](https://git.io/typing-svg)
 
@@ -91,13 +91,3 @@ _PT. Klik Digital Sinergi_
 ![Postman](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Postman&logo=Postman)
 ![Linux](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Linux&logo=linux)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandes007&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandes007&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandes007&theme=radical&hide_border=true" />
-
-</div>
