@@ -1,17 +1,59 @@
-# Nandes
+<div align="center">
 
-“I’m Nandes, a software engineer focused on building innovative solutions with a passion for technology and coding.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Fernandes%20Simanjuntak&fontSize=38&fontColor=fff&animation=fadeIn&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=55" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=8A9CFF&center=true&vCenter=true&width=650&lines=Building+scalable+payment+%26+event-driven+systems;Laravel+%C2%B7+Golang+%C2%B7+Kafka+%C2%B7+Flink+%C2%B7+PostgreSQL;Turning+legacy+systems+into+real-time+platforms)](https://git.io/typing-svg)
+
+</div>
+
+I'm a software engineer with 5+ years building backend systems that move money and data reliably — payment gateways, event-driven pipelines, and real-time ETL. I like taking messy legacy systems and turning them into something that scales.
 
 ## 🔌 Let's Connect
 
-[![Linkedin Badge](https://img.shields.io/badge/-nandes_sumanjuntak-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/fernandessimanjuntak/)](https://www.linkedin.com/in/fernandessimanjuntak/)
+[![Linkedin Badge](https://img.shields.io/badge/-fernandes_simanjuntak-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fernandessimanjuntak/)
 [![Gmail Badge](https://img.shields.io/badge/-nandessimanjuntak1803@gmail.com-dd4b39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nandessimanjuntak1803@gmail.com)](mailto:nandessimanjuntak1803@gmail.com)
-<!-- [![My Resume](https://img.shields.io/badge/my_resume-18181B?style=flat-square&logo=github&logoColor=white)](https://github.com/Rusydy/Rusydy/blob/main/About/resume.md) -->
+
+## 💼 Experience
+
+**Software Engineer — PT. Tiki Jalur Nugraha Ekakurir (JNE)** · _08/2024 - Present_
+
+- Upgraded Laravel framework from version 6.x to 12.x
+- Designed RESTful APIs in Laravel focused on scalability, security, and performance
+- Built an event-driven architecture on **Apache Kafka + Protocol Buffers** for real-time event processing
+- Built a **Java / Kafka / Flink** ETL pipeline feeding an OLAP database for real-time reporting
+- Built a middleware layer bridging legacy and new platforms during migration
+
+**Software Engineer (Freelance)** · _09/2024 - 11/2025_
+
+_PT. Vixpro Digital Teknologi_
+
+- Architected a multi-tier backoffice payment gateway (members → merchants → platform) with automated fee distribution and cascading commissions
+- Integrated a blockchain payment gateway (CAMP Investment Technologies) with webhook-driven reconciliation for on-chain/internal consistency
+- Built an automated monthly reconciliation engine with idempotent, fault-tolerant transaction processing
+
+_PT. Klik Digital Sinergi_
+
+- Built a Points Management API for Telkomsel agents with multi-level referral commissions
+- Integrated a LinkAja e-wallet pipeline achieving **99.8% redemption success rate** via exponential backoff retries
+- Optimized DB indexing and fault-tolerant transaction handling for audit logging
+
+**Software Engineer — PT. Global Putera Asia** · _10/2022 - 08/2024_
+
+- Built an Inventory Management System (master data, real-time stock, cycle counts)
+- Built an HHT mobile app for barcode-driven stock opname with offline/online sync
+- Engineered a high-throughput POS system with offline-resilient payment & inventory processing
+- Mentored junior engineers through code review and pairing
+
+**Information Technology — PT. Gelael Supermarket** · _06/2019 - 09/2022_
+
+- Built a membership web app: registration, points tracking, transaction history
+- Acted as technical liaison between vendor and management across multiple branch rollouts
 
 ## ⚡ Languages
 
 ![Go](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Go&logo=go)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=JavaScript&logo=javascript)
+![Java](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Java&logo=openjdk)
 ![Nodejs](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Node.JS&logo=node.js)
 ![PHP](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=PHP&logo=php)
 ![Dart](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Dart&logo=dart)
@@ -20,11 +62,19 @@
 
 ## ⚒️ Framework
 
-![Vue](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vue&logo=vue.js)
-![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Tailwind+CSS&logo=tailwindcss)
-![Nuxt JS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Nuxt+JS&logo=nuxt.js)
 ![Laravel](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Laravel&logo=laravel)
-![Fluter](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Flutter&logo=flutter)
+![Vue](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Vue&logo=vue.js)
+![Nuxt JS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Nuxt+JS&logo=nuxt.js)
+![Tailwind CSS](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Tailwind+CSS&logo=tailwindcss)
+![Flutter](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Flutter&logo=flutter)
+
+## 📡 Data & Messaging
+
+![Kafka](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Apache+Kafka&logo=apachekafka)
+![Flink](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Apache+Flink&logo=apacheflink)
+![Elasticsearch](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Elasticsearch&logo=elasticsearch)
+![Protobuf](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Protocol+Buffers&logo=googleprotobuf)
+![gRPC](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=gRPC&logo=grpc)
 
 ## 📚 Database
 
@@ -40,3 +90,14 @@
 ![Gitlab](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Gitlab&logo=gitlab)
 ![Postman](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Postman&logo=Postman)
 ![Linux](https://img.shields.io/static/v1?style=flat-square&color=18181B&labelColor=18181B&label=&message=Linux&logo=linux)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nandes007&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandes007&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandes007&theme=radical&hide_border=true" />
+
+</div>
