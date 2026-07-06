@@ -6,7 +6,7 @@
 
 </div>
 
-I'm software engineer with 4+ years of experience, I build robust, scalable software that solves real problems — and I care as much about reliability as I do about shipping fast. Always learning, currently exploring AI and blockchain.
+I'm software engineer with 5+ years of experience, I build robust, scalable software that solves real problems — and I care as much about reliability as I do about shipping fast. Always learning, currently exploring AI and blockchain.
 
 ## 🔌 Let's Connect
 
