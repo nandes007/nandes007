@@ -15,7 +15,7 @@ I'm software engineer with 5+ years of experience, I build robust, scalable soft
 
 ## 💼 Experience
 
-**Software Engineer — PT. Tiki Jalur Nugraha Ekakurir (JNE)** · _08/2024 - Present_
+**Software Engineer — PT. Tiki Jalur Nugraha Ekakurir (JNE)** · _08/2024 - 05/2026_
 
 - Upgraded Laravel framework from version 6.x to 12.x
 - Designed RESTful APIs in Laravel focused on scalability, security, and performance
